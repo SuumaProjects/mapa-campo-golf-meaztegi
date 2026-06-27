@@ -1,20 +1,14 @@
-# Mapa Meaztegi - estilo demo
+# Mapa Meaztegi - versión compacta para Glide
 
-Archivo preparado para sustituir el `index.html` del repositorio GitHub Pages:
-
-https://github.com/suumaprojects/mapa-campo-golf-meaztegi
+Versión ajustada para evitar que el panel inferior quede cortado en Glide móvil.
 
 URL de prueba:
-https://suumaprojects.github.io/mapa-campo-golf-meaztegi/?lang=es&v=demo-style1
+https://suumaprojects.github.io/mapa-campo-golf-meaztegi/?lang=es&v=compacto1
 
-URL para Glide:
-https://suumaprojects.github.io/mapa-campo-golf-meaztegi/?lang=User_Language&v=demo-style1
+URL dinámica para Glide:
+https://suumaprojects.github.io/mapa-campo-golf-meaztegi/?lang=User_Language&v=compacto1
 
-En Glide: `User_Language` debe ser replacement hacia la columna real de idioma. Sin llaves.
+Replacement en Glide:
+User_Language -> columna real de idioma
 
-Cambios incluidos:
-- Misma estructura visual que la demo actual.
-- Coordenadas sustituidas por las del CSV de Meaztegi.
-- H1 y H10 como inicio de vuelta.
-- WC, Casa Club y Campo de prácticas diferenciados.
-- Fallback CSS mínimo para evitar teselas desordenadas si el CSS externo de Leaflet falla.
+No usar llaves: lang=User_Language, no lang={User_Language}.
