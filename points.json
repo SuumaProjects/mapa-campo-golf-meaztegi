@@ -1,0 +1,332 @@
+[
+  {
+    "id": "H1",
+    "name": "H1",
+    "title": {
+      "es": "Hoyo 1",
+      "en": "Hole 1",
+      "fr": "Hoyo 1",
+      "de": "Hoyo 1",
+      "eu": "Hoyo 1"
+    },
+    "lat": 43.28818135872605,
+    "lng": -3.0639255733420936,
+    "type": "hole",
+    "start": true
+  },
+  {
+    "id": "H2",
+    "name": "H2",
+    "title": {
+      "es": "Hoyo 2",
+      "en": "Hole 2",
+      "fr": "Hoyo 2",
+      "de": "Hoyo 2",
+      "eu": "Hoyo 2"
+    },
+    "lat": 43.288887967338106,
+    "lng": -3.068336341879104,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H3",
+    "name": "H3",
+    "title": {
+      "es": "Hoyo 3",
+      "en": "Hole 3",
+      "fr": "Hoyo 3",
+      "de": "Hoyo 3",
+      "eu": "Hoyo 3"
+    },
+    "lat": 43.289730283560395,
+    "lng": -3.0753523832107734,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H4",
+    "name": "H4",
+    "title": {
+      "es": "Hoyo 4",
+      "en": "Hole 4",
+      "fr": "Hoyo 4",
+      "de": "Hoyo 4",
+      "eu": "Hoyo 4"
+    },
+    "lat": 43.29149177057084,
+    "lng": -3.0745178968376017,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H5",
+    "name": "H5",
+    "title": {
+      "es": "Hoyo 5",
+      "en": "Hole 5",
+      "fr": "Hoyo 5",
+      "de": "Hoyo 5",
+      "eu": "Hoyo 5"
+    },
+    "lat": 43.289730306939894,
+    "lng": -3.0701073848485914,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H6",
+    "name": "H6",
+    "title": {
+      "es": "Hoyo 6",
+      "en": "Hole 6",
+      "fr": "Hoyo 6",
+      "de": "Hoyo 6",
+      "eu": "Hoyo 6"
+    },
+    "lat": 43.29273420084808,
+    "lng": -3.0743153319540055,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H7",
+    "name": "H7",
+    "title": {
+      "es": "Hoyo 7",
+      "en": "Hole 7",
+      "fr": "Hoyo 7",
+      "de": "Hoyo 7",
+      "eu": "Hoyo 7"
+    },
+    "lat": 43.29080960265295,
+    "lng": -3.0701857099154117,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H8",
+    "name": "H8",
+    "title": {
+      "es": "Hoyo 8",
+      "en": "Hole 8",
+      "fr": "Hoyo 8",
+      "de": "Hoyo 8",
+      "eu": "Hoyo 8"
+    },
+    "lat": 43.29016674577595,
+    "lng": -3.0662532509668576,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H9",
+    "name": "H9",
+    "title": {
+      "es": "Hoyo 9",
+      "en": "Hole 9",
+      "fr": "Hoyo 9",
+      "de": "Hoyo 9",
+      "eu": "Hoyo 9"
+    },
+    "lat": 43.29152519071072,
+    "lng": -3.0649703402221053,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H10",
+    "name": "H10",
+    "title": {
+      "es": "Hoyo 10",
+      "en": "Hole 10",
+      "fr": "Hoyo 10",
+      "de": "Hoyo 10",
+      "eu": "Hoyo 10"
+    },
+    "lat": 43.28877455631997,
+    "lng": -3.06264027175183,
+    "type": "hole",
+    "start": true
+  },
+  {
+    "id": "H11",
+    "name": "H11",
+    "title": {
+      "es": "Hoyo 11",
+      "en": "Hole 11",
+      "fr": "Hoyo 11",
+      "de": "Hoyo 11",
+      "eu": "Hoyo 11"
+    },
+    "lat": 43.290440582498015,
+    "lng": -3.0638039855048844,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H12",
+    "name": "H12",
+    "title": {
+      "es": "Hoyo 12",
+      "en": "Hole 12",
+      "fr": "Hoyo 12",
+      "de": "Hoyo 12",
+      "eu": "Hoyo 12"
+    },
+    "lat": 43.29278699256596,
+    "lng": -3.0647939694769937,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H13",
+    "name": "H13",
+    "title": {
+      "es": "Hoyo 13",
+      "en": "Hole 13",
+      "fr": "Hoyo 13",
+      "de": "Hoyo 13",
+      "eu": "Hoyo 13"
+    },
+    "lat": 43.292060397925944,
+    "lng": -3.068356808750564,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H14",
+    "name": "H14",
+    "title": {
+      "es": "Hoyo 14",
+      "en": "Hole 14",
+      "fr": "Hoyo 14",
+      "de": "Hoyo 14",
+      "eu": "Hoyo 14"
+    },
+    "lat": 43.29321916352998,
+    "lng": -3.067957721406423,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H15",
+    "name": "H15",
+    "title": {
+      "es": "Hoyo 15",
+      "en": "Hole 15",
+      "fr": "Hoyo 15",
+      "de": "Hoyo 15",
+      "eu": "Hoyo 15"
+    },
+    "lat": 43.29259631249966,
+    "lng": -3.07179279767484,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H16",
+    "name": "H16",
+    "title": {
+      "es": "Hoyo 16",
+      "en": "Hole 16",
+      "fr": "Hoyo 16",
+      "de": "Hoyo 16",
+      "eu": "Hoyo 16"
+    },
+    "lat": 43.29535810444776,
+    "lng": -3.0690296669376984,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H17",
+    "name": "H17",
+    "title": {
+      "es": "Hoyo 17",
+      "en": "Hole 17",
+      "fr": "Hoyo 17",
+      "de": "Hoyo 17",
+      "eu": "Hoyo 17"
+    },
+    "lat": 43.292995969644124,
+    "lng": -3.067937162949651,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "H18",
+    "name": "H18",
+    "title": {
+      "es": "Hoyo 18",
+      "en": "Hole 18",
+      "fr": "Hoyo 18",
+      "de": "Hoyo 18",
+      "eu": "Hoyo 18"
+    },
+    "lat": 43.29067771293279,
+    "lng": -3.0699336794221703,
+    "type": "hole",
+    "start": false
+  },
+  {
+    "id": "WC",
+    "name": "WC",
+    "title": {
+      "es": "WC / Servicios",
+      "en": "WC / Services",
+      "fr": "WC / Servicios",
+      "de": "WC / Servicios",
+      "eu": "WC / Servicios"
+    },
+    "lat": 43.29070540918871,
+    "lng": -3.071468620618843,
+    "type": "wc",
+    "start": false
+  },
+  {
+    "id": "WC",
+    "name": "WC",
+    "title": {
+      "es": "WC / Servicios",
+      "en": "WC / Services",
+      "fr": "WC / Servicios",
+      "de": "WC / Servicios",
+      "eu": "WC / Servicios"
+    },
+    "lat": 43.29350619161069,
+    "lng": -3.067870692575003,
+    "type": "wc",
+    "start": false
+  },
+  {
+    "id": "CAMPO DE PRACTICAS",
+    "name": "PRÁCTICAS",
+    "title": {
+      "es": "Campo de prácticas",
+      "en": "Practice Area",
+      "fr": "Campo de prácticas",
+      "de": "Campo de prácticas",
+      "eu": "Campo de prácticas"
+    },
+    "lat": 43.28695987256295,
+    "lng": -3.063390873081765,
+    "type": "practice",
+    "start": false
+  },
+  {
+    "id": "CASA CLUB",
+    "name": "CASA CLUB",
+    "title": {
+      "es": "Casa Club",
+      "en": "Clubhouse",
+      "fr": "Casa Club",
+      "de": "Casa Club",
+      "eu": "Casa Club"
+    },
+    "lat": 43.288200313743914,
+    "lng": -3.0630516343486187,
+    "type": "clubhouse",
+    "start": false
+  }
+]
