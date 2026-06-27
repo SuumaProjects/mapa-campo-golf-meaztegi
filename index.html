@@ -7,6 +7,24 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     integrity="sha256-p4NxAoJBhIINfQuxySiC02L4zgSjjA8f8g4D/0zHAxw=" crossorigin="" />
   <style>
+    /* Leaflet CSS fallback: evita que los tiles se muestren desordenados si el CDN de Leaflet no carga */
+    .leaflet-container{overflow:hidden;position:relative;outline:0;touch-action:none;}
+    .leaflet-pane,.leaflet-tile,.leaflet-marker-icon,.leaflet-marker-shadow,.leaflet-tile-container,.leaflet-pane>svg,.leaflet-pane>canvas,.leaflet-zoom-box,.leaflet-image-layer,.leaflet-layer{position:absolute;left:0;top:0;}
+    .leaflet-tile{filter:inherit;visibility:hidden;}
+    .leaflet-tile-loaded{visibility:inherit;}
+    .leaflet-marker-icon,.leaflet-marker-shadow{display:block;}
+    .leaflet-container img.leaflet-tile{max-width:none!important;max-height:none!important;}
+    .leaflet-container img.leaflet-image-layer{max-width:15000px!important;}
+    .leaflet-pane{z-index:400;}
+    .leaflet-tile-pane{z-index:200;}
+    .leaflet-overlay-pane{z-index:400;}
+    .leaflet-shadow-pane{z-index:500;}
+    .leaflet-marker-pane{z-index:600;}
+    .leaflet-tooltip-pane{z-index:650;}
+    .leaflet-popup-pane{z-index:700;}
+    .leaflet-zoom-animated{transform-origin:0 0;}
+    .leaflet-interactive{cursor:pointer;}
+
     :root {
       --green:#20b26b;
       --yellow:#f3c623;
