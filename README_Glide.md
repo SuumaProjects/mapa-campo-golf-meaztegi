@@ -1,14 +1,11 @@
-# Mapa Meaztegi - versión compacta para Glide
+# Mapa Meaztegi - versión popup-safe1
 
-Versión ajustada para evitar que el panel inferior quede cortado en Glide móvil.
+Versión pensada para Glide móvil. Mantiene los popups/tarjetas superior e inferior.
 
 URL de prueba:
-https://suumaprojects.github.io/mapa-campo-golf-meaztegi/?lang=es&v=compacto1
+https://suumaprojects.github.io/mapa-campo-golf-meaztegi/?lang=es&v=popup-safe1
 
-URL dinámica para Glide:
-https://suumaprojects.github.io/mapa-campo-golf-meaztegi/?lang=User_Language&v=compacto1
+URL Glide:
+https://suumaprojects.github.io/mapa-campo-golf-meaztegi/?lang=User_Language&v=popup-safe1
 
-Replacement en Glide:
-User_Language -> columna real de idioma
-
-No usar llaves: lang=User_Language, no lang={User_Language}.
+El panel inferior se eleva sobre el menú inferior de Glide para que no quede cortado.
