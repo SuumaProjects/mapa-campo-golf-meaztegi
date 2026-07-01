@@ -328,5 +328,20 @@
     "lng": -3.0630516343486187,
     "type": "clubhouse",
     "start": false
+  },
+  {
+    "id": "STARTER-PROSHOP",
+    "name": "STARTER-PROSHOP",
+    "title": {
+      "es": "Starter-Proshop",
+      "en": "Starter-Proshop",
+      "fr": "Starter-Proshop",
+      "de": "Starter-Proshop",
+      "eu": "Starter-Proshop"
+    },
+    "lat": 43.28789789772124,
+    "lng": -3.063558965472141,
+    "type": "starter",
+    "start": false
   }
 ]
